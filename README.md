@@ -1,6 +1,11 @@
 # Contacts_Kotlin
 
 backend logic of the phone book with adding, rewriting, searching, displaying information
+We have here:
+1) SimpleDateFormat
+2) Clock
+3) File
+
 
 
 Example:
